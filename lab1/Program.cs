@@ -1,22 +1,22 @@
-﻿using System.Data.SqlClient;
+﻿using System;
+using System.Linq;
+using Microsoft.EntityFrameworkCore;
 
 class Program
 {
-    static async Task Main(string[] args)
+    static void Main(string[] args)
     {
-        string connectionString = "Server=localhost;Database=TradesOperations;User Id=SA;Password=Password123!;TrustServerCertificate=True;";
-
-        using SqlConnection connection = new(connectionString);
-        await connection.OpenAsync();
-
-        string query = "SELECT * FROM Sales JOIN Companies ON Sales.CompanyId = Companies.CompanyId JOIN Products ON Sales.ProductId = Products.ProductId";
-
-        SqlCommand command = new(query, connection);
-
-        using SqlDataReader reader = await command.ExecuteReaderAsync();
-        while (await reader.ReadAsync())
+        using (var context = new TradeContext())
         {
-            Console.WriteLine($"Company: {reader["Name"]}, Product: {reader["Name"]}, Date of Sale: {reader["DateOfSale"]}");
+            var sales = context.Sales
+                .Include(s => s.Product)
+                .Include(s => s.Company)
+                .ToList();
+
+            foreach (var sale in sales)
+            {
+                Console.WriteLine($"Company: {sale.Company.Name}, Product: {sale.Product.Name}, Date of Sale: {sale.DateOfSale}");
+            }
         }
     }
 }
