@@ -1,9 +1,16 @@
+using MongoDB.Bson;
+using MongoDB.Bson.Serialization.Attributes;
+
 public class Manager
 {
-    public int ManagerId { get; set; }
+    public ObjectId Id { get; set; }
+
+    [BsonElement("surname")]
     public string Surname { get; set; }
+
+    [BsonElement("firstName")]
     public string FirstName { get; set; }
+
+    [BsonElement("patronymic")]
     public string Patronymic { get; set; }
-    public int CompanyId { get; set; }
-    public Company Company { get; set; }
 }

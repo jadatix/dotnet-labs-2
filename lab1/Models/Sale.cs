@@ -1,12 +1,25 @@
+using MongoDB.Bson;
+using MongoDB.Bson.Serialization.Attributes;
+
 public class Sale
 {
-    public int SaleId { get; set; }
+    public ObjectId Id { get; set; }
+
+    [BsonElement("dateOfSale")]
     public DateTime DateOfSale { get; set; }
+
+    [BsonElement("quantity")]
     public decimal Quantity { get; set; }
+
+    [BsonElement("price")]
     public decimal Price { get; set; }
+
+    [BsonElement("discount")]
     public decimal Discount { get; set; }
-    public int ProductId { get; set; }
+
+    [BsonElement("product")]
     public Product Product { get; set; }
-    public int CompanyId { get; set; }
+
+    [BsonElement("company")]
     public Company Company { get; set; }
 }
