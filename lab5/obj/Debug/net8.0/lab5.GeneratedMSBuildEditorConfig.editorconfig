@@ -1,0 +1,135 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = lab5
+build_property.RootNamespace = lab5
+build_property.ProjectDir = /home/jadatix/Desktop/dotnet_2/lab5/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /home/jadatix/Desktop/dotnet_2/lab5
+build_property._RazorSourceGeneratorDebug = 
+
+[/home/jadatix/Desktop/dotnet_2/lab5/Pages/CompanyView/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcGFueVZpZXcvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jadatix/Desktop/dotnet_2/lab5/Pages/CompanyView/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcGFueVZpZXcvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jadatix/Desktop/dotnet_2/lab5/Pages/CompanyView/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcGFueVZpZXcvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jadatix/Desktop/dotnet_2/lab5/Pages/CompanyView/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcGFueVZpZXcvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jadatix/Desktop/dotnet_2/lab5/Pages/CompanyView/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcGFueVZpZXcvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jadatix/Desktop/dotnet_2/lab5/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jadatix/Desktop/dotnet_2/lab5/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jadatix/Desktop/dotnet_2/lab5/Pages/ManagerView/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTWFuYWdlclZpZXcvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jadatix/Desktop/dotnet_2/lab5/Pages/ManagerView/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTWFuYWdlclZpZXcvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jadatix/Desktop/dotnet_2/lab5/Pages/ManagerView/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTWFuYWdlclZpZXcvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jadatix/Desktop/dotnet_2/lab5/Pages/ManagerView/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTWFuYWdlclZpZXcvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jadatix/Desktop/dotnet_2/lab5/Pages/ManagerView/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTWFuYWdlclZpZXcvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jadatix/Desktop/dotnet_2/lab5/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jadatix/Desktop/dotnet_2/lab5/Pages/ProductView/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvZHVjdFZpZXcvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jadatix/Desktop/dotnet_2/lab5/Pages/ProductView/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvZHVjdFZpZXcvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jadatix/Desktop/dotnet_2/lab5/Pages/ProductView/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvZHVjdFZpZXcvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jadatix/Desktop/dotnet_2/lab5/Pages/ProductView/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvZHVjdFZpZXcvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jadatix/Desktop/dotnet_2/lab5/Pages/ProductView/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvZHVjdFZpZXcvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jadatix/Desktop/dotnet_2/lab5/Pages/SaleView/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2FsZVZpZXcvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jadatix/Desktop/dotnet_2/lab5/Pages/SaleView/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2FsZVZpZXcvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jadatix/Desktop/dotnet_2/lab5/Pages/SaleView/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2FsZVZpZXcvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jadatix/Desktop/dotnet_2/lab5/Pages/SaleView/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2FsZVZpZXcvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jadatix/Desktop/dotnet_2/lab5/Pages/SaleView/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2FsZVZpZXcvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jadatix/Desktop/dotnet_2/lab5/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jadatix/Desktop/dotnet_2/lab5/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jadatix/Desktop/dotnet_2/lab5/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jadatix/Desktop/dotnet_2/lab5/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-nxwwlli06c
